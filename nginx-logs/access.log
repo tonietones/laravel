@@ -1,0 +1,8 @@
+172.104.11.4 - - [11/Feb/2023:20:46:05 +0000] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\xEA\xBD\x04\x8E!\x18_0\xF2\xCC\xEE\xC2\x9F.tsi\xF3\x1E\xD1\x0FX\x93U\x0E3wG\x84" 400 157 "-" "-"
+102.88.62.92 - - [11/Feb/2023:20:47:04 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.88.62.92 - - [11/Feb/2023:20:47:04 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://138.68.141.238/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.88.62.235 - - [11/Feb/2023:20:48:31 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.88.62.235 - - [11/Feb/2023:20:52:16 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.88.62.235 - - [11/Feb/2023:20:52:16 +0000] "GET /favicon.ico HTTP/1.1" 304 0 "http://138.68.141.238/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.88.62.235 - - [11/Feb/2023:20:52:17 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+102.88.62.235 - - [11/Feb/2023:20:52:18 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
